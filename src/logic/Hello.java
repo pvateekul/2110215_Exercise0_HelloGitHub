@@ -8,6 +8,6 @@ public class Hello {
 
 	public static String greetingMessage(){
 		// TODO Implement this method to return string "Hello Github".
-		return "";
+		return "Hello Github";
 	}
 }
